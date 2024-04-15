@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-%20%7C%20Windows%20%7C%20-blue)
 ![file1](https://github.com/starletaezer/FREEcrypto/assets/166330930/216ade6a-bdaa-44ea-a607-6d10657d8c00)
 
