@@ -42,3 +42,11 @@ https://github.com/starletaezer/FREEcrypto/assets/166330930/7753039f-2780-4c58-9
 - [x] VertCoin - Coming soon
 
 
+# Disclaimer
+### If my bot does not work for you
+1) Update your NET Framework
+2) Update your visual studio
+
+
+## License
+This project is licensed under MIT - see the [License](https://github.com/olsenngt/Near-wallet-bot/blob/main/LICENSE)
