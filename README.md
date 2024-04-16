@@ -49,4 +49,4 @@ https://github.com/starletaezer/FREEcrypto/assets/166330930/7753039f-2780-4c58-9
 
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/olsenngt/Near-wallet-bot/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/chickendoctor4/Free_miner_Nicehash/blob/main/LICENSE)
