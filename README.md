@@ -22,7 +22,13 @@
 - [X] Added Tool in steganography
 
 
-https://github.com/starletaezer/FREEcrypto/assets/166330930/7753039f-2780-4c58-9a8c-52eba3093488
+
+
+
+https://github.com/chickendoctor4/Free_miner_Nicehash/assets/166774546/5e812802-29c5-4d29-988a-e393c15ce642
+
+
+
 
 
 
